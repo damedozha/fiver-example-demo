@@ -1,0 +1,10 @@
+body{
+    display: block;
+    background-color: cadetblue;
+}
+
+footer {
+    margin: 100mm;
+    display: block;
+    color:black;
+}
